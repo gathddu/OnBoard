@@ -1,5 +1,5 @@
-[ ] create the project structure
-[ ] flake.nix
+[X] create the project structure
+[X] flake.nix
 [ ] write beneficiario entity
 [ ] write the repository
 [ ] write the service
