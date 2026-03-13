@@ -1,10 +1,10 @@
-[X] create the project structure
-[X] flake.nix
-[ ] write beneficiario entity
-[ ] write the repository
-[ ] write the service
-[ ] write the controller
-[ ] configure postgresql connection
-[ ] write the sql scripts
-[ ] add swagger
-[ ] write the readme
+- [X] create the project structure
+- [X] flake.nix
+- [ ] write beneficiario entity
+- [ ] write the repository
+- [ ] write the service
+- [ ] write the controller
+- [ ] configure postgresql connection
+- [ ] write the sql scripts
+- [ ] add swagger
+- [ ] write the readme
