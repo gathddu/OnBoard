@@ -1,8 +1,8 @@
 - [X] create the project structure
 - [X] flake.nix
-- [ ] write beneficiario entity
-- [ ] write the repository
-- [ ] write the service
+- [X] write beneficiario entity
+- [X] write the repository
+- [X] write the service
 - [ ] write the controller
 - [ ] configure postgresql connection
 - [ ] write the sql scripts
