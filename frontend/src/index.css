@@ -38,3 +38,11 @@ body {
 @media (min-width: 768px) {
   .col-md-6 { width: 50%; }
 }
+
+.br-breadcrumb .crumb.home .br-button {
+  --background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+/* there's no dark mode in this version.. goddamn it */

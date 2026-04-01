@@ -5,6 +5,7 @@ import App from './App'
 
 import '@fortawesome/fontawesome-free/css/all.min.css'
 import '@govbr-ds/core/dist/core.min.css'
+import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

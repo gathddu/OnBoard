@@ -4,7 +4,7 @@
 - [X] write the repository
 - [X] write the service
 - [X] write the controller
-- [ ] configure postgresql connection
-- [ ] write the sql scripts
-- [ ] add swagger
-- [ ] write the readme
+- [X] configure postgresql connection
+- [X] write the sql scripts
+- [X] add swagger
+- [X] write the readme
