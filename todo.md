@@ -8,3 +8,13 @@
 - [X] write the sql scripts
 - [X] add swagger
 - [X] write the readme
+- [X] create react front-end with GOV.BR design system
+- [X] implement view/list beneficiario screen
+- [X] implement create beneficiario screen
+- [X] implement edit beneficiario screen
+- [X] implement remove beneficiario screen
+- [X] integrate front-end with spring boot api via axios
+- [X] scaffold beneficiarios-service microservice with openfeign
+- [X] scaffold api-gateway with spring cloud gateway mvc
+- [X] create dockerfile for each service
+- [X] create docker-compose.yml
