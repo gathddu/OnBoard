@@ -1,0 +1,18 @@
+package br.gov.dataprev.dapi.beneficiarios_service.repository;
+
+import br.gov.dataprev.dapi.beneficiarios_service.model.Beneficiario;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.Optional;
+
+@Repository
+public interface BeneficiarioRepository extends JpaRepository<Beneficiario, Long> {
+
+    Optional<Beneficiario> findByCpf(String cpf);
+
+    boolean existsByCpf(String cpf);
+
+    boolean existsByCpfAndIdNot(String cpf, Long id);
+}
+
